@@ -2,7 +2,7 @@
 
 This is a reference implementation of the formal analyses for Finnish prosody accounts given in:
 
-Hulden, M. 2016. "Formal Verification in Optimality Theory"
+Hulden, M. 2018. "Formal Verification in Optimality Theory"
 
 ## Usage
 
